@@ -101,5 +101,9 @@
 
     <!-- Accent color that matches the settings launcher icon -->
     <color name="icon_accent">#ffabffec</color>
+	
+	<color name="storage_summary_text_title">?android:attr/colorAccent</color>
+	<color name="storage_summary_text_summary">?android:attr/textColorPrimary</color>
+
 
 </resources>
