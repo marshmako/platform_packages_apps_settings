@@ -252,11 +252,9 @@ public class DevelopmentSettings extends SettingsPreferenceFragment
 
     private SwitchPreference mShowAllANRs;
 
-<<<<<<< HEAD
     private ColorModePreference mColorModePreference;
-=======
+
     private DropDownPreference mNightModePreference;
->>>>>>> da669b1... Revert "Remove theme setting DO NOT MERGE"
 
     private final ArrayList<Preference> mAllPrefs = new ArrayList<Preference>();
 
